@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>Moment 2</TITLE>
+<META charset="utf-8">
+</HEAD>
+<BODY>
+<H1>Moment 2</H1>
+<ol>
+<li>Utvecklingen av internet startade på 1960-talet av USA:s militära forskningsanstalt ARPA, för att experimentera med tekniker för datanät.</li>
+<li>I början var internet tänkt för bland annat hantering av avbrott och möjlighet att kringgå utslagna nätverksnoder.</li>
+<li>ARPA (Advanced Research Project Agency) är en amerikans federal myndighet.</li>
+<li>Nätet som var grunden till internet heter ARPANET.</li>
+<li>Ingen dator kunde vara centraldator pga. bristen på datortid. Alla datorer i ARPAS projekt behövde därför vara “lika mycket värda”.</li>
+<li>Fördelen med distribuerat nätverk istället för centraliserat är högre tillförlitlighet och tillgänglighet. Systemet blir lättare att expandera med bättre skalbarhet.</li>
+<li>World Wide Web.</li>
+<li>IP-nummer är unika adresser för att identifiera enheter på internet eller i lokala nätverk.</li>
+<li>Syftet med TCP är att möjliggöra oavbruten kommunikation mellan datorer som ansluts antingen till varandra eller till en server. Används för huvuddelen av all kommunikation över Internet.</li>
+<li>Internet blev populärt för allmänheten under senare delen av 1990-talet.</li>
+<li>Man kommunicerar över internet med hjälp av Transmission Control Protocol/ Internet Protocol (TCP/IP- protokoll).</li>
+<li>.</li>
+<li>Gopher är ett textbaserat nätverksprotokoll framtaget för sökning av dokument på internet.</li>
+<li>Den allra första webbläsaren skapades av Tim Berners-Lee under sent 1990-tal, några år efter det kom Mosaic och Netscape.</li>
+<li>Vanliga personer började använda datorer på 1950-talet.</li>
+<li>Idag används internet till att byta ut en stor mängd information mellan olika enheter. Som tex fildelning, e-post, streaming-tjänster, sociala medier osv.</li>
+<li>En URL är en unik adress som visar vägen till en webbsida.</li>
+<li>HTML specificerades av Tim Berners-Lee under sent 1990-tal och CSS kom till första gången år 1994 av Håkon Wium Lee.</li>
+<li> Cascading Style Sheets (CSS), är ett stilmallsspråk som beskriver presentationsstilen för ett strukturerat dokument som tex typsnitt, textstorlek och färg.</li>
+<li> Extensible Markup Language(XML), är ett universellt märkspråk. Det används för att organisera data, medan HTML används till att visa data.</li>
+<li>.</li>
+<li>JAVA uppfanns av James Gosling.</li>
+<li>En Applet är ett program som ligget inbäddat i tex en webbsida och exekveras av en webbläsare.</li>
+<li>Ett serverspråk är ett programmeringsspråk som är serverbaserat, som tex PHP och ASP.</li>
+<li>Rasmus Lerdorf skapade PHP.</li>
+<li>Active Server Pages (ASP). Java Server Page (JSP)</li>
+<li>Javascript är ett dynamiskt skript språk som utgör funktionaliteten på internets webbsidor. Till skillnad från serverspråken så är Javascript ett klientbaserat språk.</li>
+<li>Facebook skapades av Mark Zuckerberg år 2004.</li>
+<li> Skype skapades av Niklas Zennström och Janus Friis år 2003.</li>
+<li>Spotify skapades av Daniel Ek och Marin Lorentzon år 2006.</li>
+<li>Copyleft är en grupp av licenser för fri programvara.</li>
+<li>Programvarulicenser som använder Copyleft är tex. GNU, GPL, GNU, Mozilla Public License och Q Public License.</li>
+<li>Copylefts symbol är ett inringat bakvänt C.</li>
+<li>Licensen Creative Commons innebär att du som upphovsperson, tillåter andra att använda, sprida, göra om och bygga vidare på ditt verk.</li>
+<li>Creative Commons symbolerna visar vad andra människor är tillåtna att göra med ditt verk.</li>
+<li>GDPR är en förkortning för General Data Protection Regulation.</li>
+<li>GDPR inträdde den 25 maj 2018.</li>
+<li>Enligt GDPR så måste man klara av att visa vad syftet med insamling av personuppgifter är, medan PUL handlar om vad man väl gör med den insamlade informationen.</li>
+<li>GDPR säger att man får spara personuppgifter så länge det är nödvändigt för ändamålet.</li>
+<li>Bilder på nätet är oftast skyddade av upphovsrättslagen. Man får därför oftast inte använda bilder man hittar på nätet i kommersiella sammanhang.</li>
+</ol>
+</BODY>
+</HTML>
